@@ -18,7 +18,7 @@
 
 	<dependencies>
 
-		<!-- Spring MVC support -->
+		<!-- Spring MVC support for spring framework -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
